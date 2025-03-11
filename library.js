@@ -36,5 +36,3 @@ if (b) {
     console.log("the user take the book");
     
 }
-
-
